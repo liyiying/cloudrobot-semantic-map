@@ -16,7 +16,8 @@
       <arg name="depth_registration"              value="false"/>
       <arg name="disparity_processing"            value="false"/>
       <arg name="disparity_registered_processing" value="false"/>
-      <arg name="scan_processing"                 value="false"/>
+      <arg name="scan_processing"                 value="true"/>
+      <arg name="scan_topic"                      value="/scan"/>
     </include>
 
     <!-- Make a slower camera feed available; only required if we use android client -->
