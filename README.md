@@ -68,6 +68,8 @@ roslaunch turtlebot_rviz_launchers view_navigation.launch
 ```
 
 ### On Cloud Server:
+* git clone https://github.com/rbgirshick/py-faster-rcnn.git.
+
 * Put cs.py and demo_cs.py to your $Faster R-CNN/tools, and install [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn).
 
 * 
